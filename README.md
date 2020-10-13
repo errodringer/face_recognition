@@ -34,6 +34,9 @@ _Autores del proyecto:_
 
 * **Errodringer** - *Programación y edición* - [Errodringer](https://www.youtube.com/c/Errodringer?sub_confirmation=1)
 
+Código basado en el artículo de geeksforgeeks:
+https://www.geeksforgeeks.org/face-detection-using-python-and-opencv-with-webcam/
+
 ## Licencia 📄
 
 Este proyecto es divulgativo. Solo para uso personal, aprendizaje y entretenimiento.
